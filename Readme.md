@@ -22,14 +22,15 @@ fellow hackers to get them up to speed! [@raynos][] also happens to be
 interested in [arrows][], so he submits a ticket... Hopefully by now you got
 the idea, if not submit a ticket :D
 
+Maybe you want to share your knowledge with the community? [Submit][] a ticket
+too!!
+
 ## Implementation
 
 This is an attempt to implement this ambitious idea by building community of
 people that wish to exchanging knowledge. So if you'd like to learn thing or
-two submit tickets, also feel free to mention someone who may know or would be
-interested in learning, to find a pioneer and generate a momentum. If you have
-an experiment that you'd like to share submit a ticket and maybe you'll get
-enough people interested!
+two [submit][] tickets, also feel free to mention someone who may know or
+would be interested in learning, to find a pioneer and generate a momentum!
 
 ## F.A.Q.
 
@@ -59,3 +60,4 @@ enough people interested!
 [@luciferous]:https://github.com/luciferous/
 [@mozilla]:https://github.com/mozilla/
 [arrows]:http://www.haskell.org/arrows/
+[submit]:https://github.com/Gozala/hackalyst/issues/new
