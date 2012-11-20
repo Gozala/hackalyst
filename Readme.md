@@ -22,8 +22,11 @@ fellow hackers to get them up to speed! [@raynos][] also happens to be
 interested in [arrows][], so he submits a ticket... Hopefully by now you got
 the idea, if not submit a ticket :D
 
-Maybe you want to share your knowledge with the community? [Submit][] a ticket
-too!!
+Want to share your knowledge with the community? [Submit][] a proposal!!
+
+
+Lot's of interest but no one knows enough about subject yet? That's may be a
+perfect opportunity for you to take a lead learn & then share with community!!
 
 ## Implementation
 
