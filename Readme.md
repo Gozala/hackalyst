@@ -43,7 +43,7 @@ enough people interested!
 
 
 - Q: I love the idea, but I'm not in San Francisco ?  
-  A: For the repo and implement idea in your city, or maybe do via video
+  A: Fork the repo and implement idea in your city, or maybe do via video
   conferencing.
 
 - Q: What is the format of sessions ?  
